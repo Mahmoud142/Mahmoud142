@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=5BDFF7&center=true&vCenter=true&width=501&height=81&lines=Hi..+I'm+Mahmoud+Abdellah)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=32&duration=2000&pause=1000&color=5BDFF7&center=true&vCenter=true&width=450&height=61&lines=Hi..+I'm+Mahmoud+Abdellah" alt="Typing SVG" /></a>
