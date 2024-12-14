@@ -27,7 +27,7 @@
 	
 </p>
 
-## <img src="https://media0.giphy.com/media/CpAoNQKJRLAIDhGKST/100.webp?cid=9e605847weefzsve9cx90a6zs5zl37crrsmptp25ww69xhzd&ep=v1_stickers_search&rid=100.webp&ct=s" width=5%> My Competitive Programming Profiles
+## <img src="https://media0.giphy.com/media/CpAoNQKJRLAIDhGKST/100.webp?cid=9e605847weefzsve9cx90a6zs5zl37crrsmptp25ww69xhzd&ep=v1_stickers_search&rid=100.webp&ct=s" width= 6%> My Competitive Programming Profiles
 <div align="center" width=100%>
   <a href="https://codeforces.com/profile/mahmoud_abdellah14"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
 	  &emsp; 
