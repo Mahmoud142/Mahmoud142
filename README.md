@@ -6,7 +6,7 @@
 
 <!-- About me Section -->
 
-## <img src = "https://s3.ezgif.com/tmp/ezgif-3-dc66f7ead2.gif" width = 5%> About me
+## <img src = "https://media2.giphy.com/media/dAoYmsTJgSXcb6K8rj/100.webp?cid=9e605847broqlqdqwcsg84uttaoq9vjsbbzpv8bvkubr2cj4&ep=v1_stickers_search&rid=100.webp&ct=s" width = 8%> About me
 <br>
 
 
@@ -17,3 +17,11 @@
 
 <!-- Connect me Section -->
 ## <img src = "https://media4.giphy.com/media/GbxZdp9V9TojWhTFeK/100.webp?cid=9e605847fe6kh4a6su66vjalljfd2elsapj9a3d02ocj7x98&ep=v1_stickers_search&rid=100.webp&ct=s" width = 4%> Connect with me
+
+<p align="center">
+	<a href="https://wa.me/0201145325772"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/7oskaa"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
+</p>
