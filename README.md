@@ -39,8 +39,8 @@
 
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
-## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming languages
+## <img src="https://media1.giphy.com/media/oOylMv2oLDxcxGzYn6/100.webp?cid=9e6058472ynuqpsjkjgdela8d6aar77b9g4uxgn4mggtshp2&ep=v1_stickers_search&rid=100.webp&ct=s" width ="8%"> My Skills
+## <img src = "https://media0.giphy.com/media/kAm4u0lhDCmXnugz6p/100.webp?cid=9e605847cnrdv4ho8qle8h55m534u07kis62cmhvwc2ugf2l&ep=v1_stickers_search&rid=100.webp&ct=ts?raw=true" width=5%> Programming languages
 
 <p align="center"> 
   &emsp; 
