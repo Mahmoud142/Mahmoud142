@@ -16,7 +16,7 @@
 
 
 <!-- Connect me Section -->
-## <img src = "https://media4.giphy.com/media/GbxZdp9V9TojWhTFeK/100.webp?cid=9e605847fe6kh4a6su66vjalljfd2elsapj9a3d02ocj7x98&ep=v1_stickers_search&rid=100.webp&ct=s" width = 4%> Connect with me
+## <img src = "https://media4.giphy.com/media/GbxZdp9V9TojWhTFeK/100.webp?cid=9e605847fe6kh4a6su66vjalljfd2elsapj9a3d02ocj7x98&ep=v1_stickers_search&rid=100.webp&ct=s" width = 5%> Connect with me
 
 <p align="center">
 	<a href="https://wa.me/0201145325772"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
@@ -25,3 +25,15 @@
 	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
 </p>
+
+## <img src="https://media0.giphy.com/media/CpAoNQKJRLAIDhGKST/100.webp?cid=9e605847weefzsve9cx90a6zs5zl37crrsmptp25ww69xhzd&ep=v1_stickers_search&rid=100.webp&ct=s" width=5%> My Competitive Programming Profiles
+<div align="center" width=100%>
+  <a href="https://codeforces.com/profile/mahmoud_abdellah14"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
+	  &emsp; 
+	<a href="https://leetcode.com/u/Abo_abdellah14/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=%6/></a>
+	  &emsp; 
+	<a href="https://atcoder.jp/users/Mahmoud_Abdellah"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width=6%/></a>
+	  &emsp; 
+	<a href="https://www.codechef.com/users/mahmoud14"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width=6%/></a>
+
+</div>
