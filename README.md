@@ -1,6 +1,6 @@
 <!-- Name Section -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=32&duration=2000&pause=1000&color=5BDFF7&center=true&vCenter=true&width=880&height=66&lines=Hello+There!+👋+I'm+Mahmoud+Abdellah" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&weight=200&size=32&duration=2000&pause=1000&color=5BDFF7&center=true&vCenter=true&width=880&height=66&lines=Hello+There!+👋+I'm+Mahmoud+Abdellah." alt="Typing SVG" /></a>
 
 ***
 
@@ -14,3 +14,6 @@
 - :computer: I am a competitive programmer on `Codeforces`, `Leetcode`, `Atcoder`, and `Codechef`.
 - 🌐 I'm learning web-development.
 
+
+<!-- Connect me Section -->
+## <img src = "https://media4.giphy.com/media/GbxZdp9V9TojWhTFeK/100.webp?cid=9e605847fe6kh4a6su66vjalljfd2elsapj9a3d02ocj7x98&ep=v1_stickers_search&rid=100.webp&ct=s" width = 4%> Connect with me
