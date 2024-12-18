@@ -69,6 +69,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
+  &emsp; 
+  <a href="#" target="_blank"> 
+     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white">
+   </a>
 </p>
 
  ### <img src = "https://media4.giphy.com/media/j5PbVki8141Nq23MCg/100.webp?cid=9e605847p10zjeyo2mgckj85crelhcdyugzrvkdw61hwcrqb&ep=v1_stickers_search&rid=100.webp&ct=s" width=5%>  Software & Tools
