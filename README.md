@@ -95,5 +95,6 @@
 	<a href="https://www.linkedin.com/in/mahmoud-3bdellah?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUBRufL%2FoS9iR5SsgPBVA5g%3D%3D"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/profile.php?id=100004830498308"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/mahmoud_abdellah_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+ <a href="https://x.com/Abo_3bdellah"><img src="https://img.shields.io/badge/Twitter-fff?style=flat&logo=x&logoColor=black" alt="X"/></a>
 	
 </p>
