@@ -1,5 +1,5 @@
 <!-- Name Section -->
-
+<!-- test -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&weight=200&size=32&duration=2000&pause=1000&color=5BDFF7&center=true&vCenter=true&width=880&height=66&lines=Hello+There!+👋+I'm+Mahmoud+Abdellah." alt="Typing SVG" /></a>
 
 ***
@@ -68,6 +68,10 @@
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+   </a>
+  &emsp; 
+  <a href="https://nodejs.org/docs/latest/api/" target="_blank"> 
+     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white">
    </a>
 </p>
 
