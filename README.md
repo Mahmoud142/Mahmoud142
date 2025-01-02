@@ -1,6 +1,11 @@
 <!-- Name Section -->
 <!-- test -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=29&duration=1999&pause=1000&color=0CA7FDDF&center=true&vCenter=true&width=1100&height=30&lines=Hello+There+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=29&duration=1999&pause=1000&color=0CA7FDDF&center=true&vCenter=true&width=1000&height=30&lines=Hello+There+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="">
+    <img src="https://i.imgur.com/o7Nda0B.gif" alt="Mahmoud Abdellah" width="700" height="50" />
+  </a>
+</p>
 
 ***
 
