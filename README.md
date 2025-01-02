@@ -8,7 +8,6 @@
 
 ## <img src = "https://media2.giphy.com/media/dAoYmsTJgSXcb6K8rj/100.webp?cid=9e605847broqlqdqwcsg84uttaoq9vjsbbzpv8bvkubr2cj4&ep=v1_stickers_search&rid=100.webp&ct=s" width = 8%> About me
 <br>
-<br>
 
 
 - 👨‍💻 I'm currently a Computer Science student at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
