@@ -78,6 +78,14 @@
   <a href="https://nodejs.org/docs/latest/api/" target="_blank"> 
      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white">
    </a>
+  &emsp; 
+	  <a href="https://www.mongodb.com/docs/" target="_blank"> 
+    <img src="https://img.shields.io/badge/MongoDB-359b3b?style=plastic&logo=mongodb&logoColor=white">
+   </a>
+&emsp; 
+	<a href="https://expressjs.com/"> 
+	<img src="https://img.shields.io/badge/Express.js%20-3fa545.svg?style=plastic&logo=Express&logoColor=white"> 
+</a>
 </p>
 
  ### <img src = "https://media4.giphy.com/media/j5PbVki8141Nq23MCg/100.webp?cid=9e605847p10zjeyo2mgckj85crelhcdyugzrvkdw61hwcrqb&ep=v1_stickers_search&rid=100.webp&ct=s" width=5%>  Software & Tools
