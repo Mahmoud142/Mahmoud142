@@ -80,10 +80,6 @@
   <a href="https://nodejs.org/docs/latest/api/" target="_blank"> 
      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white">
    </a>
-  &emsp; 
-	  <a href="https://www.mongodb.com/docs/" target="_blank"> 
-    <img src="https://img.shields.io/badge/MongoDB-359b3b?style=plastic&logo=mongodb&logoColor=white">
-   </a>
 &emsp; 
 	<a href="https://expressjs.com/"> 
 	<img src="https://img.shields.io/badge/Express.js%20-3fa545.svg?style=plastic&logo=Express&logoColor=white"> 
@@ -97,6 +93,12 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+  &emsp; 
+	  <a href="https://www.mongodb.com/docs/" target="_blank"> 
+    <img src="https://img.shields.io/badge/MongoDB-359b3b?style=plastic&logo=mongodb&logoColor=white">
+   </a>
   &emsp;
     <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
   &emsp;
