@@ -68,6 +68,7 @@ I am a dedicated Computer Science student with a strong foundation in algorithms
 
 <p align="center">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
@@ -122,6 +123,9 @@ I am a dedicated Computer Science student with a strong foundation in algorithms
 </p>
 
 <!-- Snake Animation -->
+
+## 🐍 Contribution Graph
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahmoud142/Mahmoud142/output/github-contribution-grid-snake-dark.svg">
