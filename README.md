@@ -10,32 +10,12 @@
 
 I am a dedicated Computer Science student with a strong foundation in algorithms and a passion for crafting efficient software solutions.
 
-- 🎓 **Education:** Studying at the [Faculty of Computers & Informatics, Suez Canal University](http://suez.edu.eg/ar/).
+- 🌐 **Portfolio:** [mahmoudabdellah.tech](https://mahmoudabdellah.tech) - Showcase of my projects and work.
 - ⚡ **Competitive Programming:** Active participant on **Codeforces**, **LeetCode**, **AtCoder**, and **CodeChef** where I hone my problem-solving skills.
 - 🚀 **Current Focus:** Expanding my expertise in **Web Development** and modern software architecture.
 - 💡 **Interests:** Algorithms, backend development, continuously learning new technologies, and building impactful applications.
+- 🎓 **Education:** Studying at the [Faculty of Computers & Informatics, Suez Canal University](http://suez.edu.eg/ar/).
 - 👯 **Looking to collaborate on:** Open-source backend tools and innovative software solutions.
-- 🌐 **Portfolio:** [mahmoudabdellah.tech](https://mahmoudabdellah.tech) - Showcase of my projects and work.
-
-## 🏆 My Competitive Programming Profiles
-
-<div align="center">
-  <a href="https://codeforces.com/profile/mahmoud_abdellah14">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  &emsp; 
-  <a href="https://leetcode.com/u/Abo_abdellah14/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-  </a>
-  &emsp; 
-  <a href="https://atcoder.jp/users/Mahmoud_Abdellah">
-    <img src="https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=AtCoder&logoColor=white" alt="AtCoder" />
-  </a>
-  &emsp; 
-  <a href="https://www.codechef.com/users/mahmoud14">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
-  </a>
-</div>
 
 ## 🛠️ My Skills
 
@@ -93,6 +73,26 @@ I am a dedicated Computer Science student with a strong foundation in algorithms
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
+
+## 🏆 My Competitive Programming Profiles
+
+<div align="center">
+  <a href="https://codeforces.com/profile/mahmoud_abdellah14">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  &emsp; 
+  <a href="https://leetcode.com/u/Abo_abdellah14/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a>
+  &emsp; 
+  <a href="https://atcoder.jp/users/Mahmoud_Abdellah">
+    <img src="https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=AtCoder&logoColor=white" alt="AtCoder" />
+  </a>
+  &emsp; 
+  <a href="https://www.codechef.com/users/mahmoud14">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
+  </a>
+</div>
 
 <!-- Connect with me Section -->
 
