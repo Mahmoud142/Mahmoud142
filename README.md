@@ -15,6 +15,7 @@ I am a dedicated Computer Science student with a strong foundation in algorithms
 - 🚀 **Current Focus:** Expanding my expertise in **Web Development** and modern software architecture.
 - 💡 **Interests:** Algorithms, backend development, continuously learning new technologies, and building impactful applications.
 - 👯 **Looking to collaborate on:** Open-source backend tools and innovative software solutions.
+- 🌐 **Portfolio:** [mahmoudabdellah.tech](https://mahmoudabdellah.tech) - Showcase of my projects and work.
 
 ## 🏆 My Competitive Programming Profiles
 
@@ -52,7 +53,8 @@ I am a dedicated Computer Science student with a strong foundation in algorithms
 
 <p align="center"> 
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"> 
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white">
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"> 
 </p>
 
 ### 🎨 Frontend & UI
