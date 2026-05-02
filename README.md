@@ -110,7 +110,7 @@ I am a dedicated Computer Science student with a strong foundation in algorithms
 ## 📊 GitHub & Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud142&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Mahmoud's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mahmoud142&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide=stars" alt="Mahmoud's GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud142&theme=radical&hide_border=true" alt="GitHub Streak" />
