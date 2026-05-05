@@ -94,7 +94,7 @@ I am a dedicated Computer Science student with a strong foundation in algorithms
   </a>
 </div>
 
-<!-- Connect with me Section -->
+<!-- Connect with mee   -->
 
 ## 📫 Connect with me
 
