@@ -1,25 +1,25 @@
 <!-- Name Section -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2370ED&center=true&vCenter=true&width=750&height=60&lines=Hello+there%2C+I'm+Mahmoud+Abdellah!+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2370ED&center=true&vCenter=true&width=750&height=60&lines=Hello+there%2C+I'm+Mahmoud+Abdellah!+%F0%9F%91%8B" alt="Typing introduction for Mahmoud Abdellah" />
 </p>
 
 <!-- About me Section -->
 
-## 👤 About me
+## 👤 About Me
 
-I am a dedicated Computer Science student with a strong foundation in algorithms and a passion for crafting efficient software solutions.
+I am a Computer Science student focused on backend engineering, algorithms, and building reliable software solutions. I enjoy solving challenging problems, designing clean APIs, and turning ideas into practical applications.
 
-- 🌐 **Portfolio:** [mahmoudabdellah.tech](https://mahmoudabdellah.tech) - Showcase of my projects and work.
-- ⚡ **Competitive Programming:** Active participant on **Codeforces**, **LeetCode**, **AtCoder**, and **CodeChef** where I hone my problem-solving skills.
-- 🚀 **Current Focus:** Expanding my expertise in **Web Development** and modern software architecture.
-- 💡 **Interests:** Algorithms, backend development, continuously learning new technologies, and building impactful applications.
+- 🌐 **Portfolio:** [mahmoudabdellah.tech](https://mahmoudabdellah.tech) - A showcase of my projects, experience, and technical work.
+- ⚡ **Competitive Programming:** Active on **Codeforces**, **LeetCode**, **AtCoder**, and **CodeChef**, where I sharpen my problem-solving skills.
+- 🚀 **Current Focus:** Building scalable backend services with **Node.js**, **NestJS**, databases, and modern software architecture.
+- 💡 **Interests:** Algorithms, backend development, distributed systems, clean code, and impactful software products.
 - 🎓 **Education:** Studying at the [Faculty of Computers & Informatics, Suez Canal University](http://suez.edu.eg/ar/).
-- 👯 **Looking to collaborate on:** Open-source backend tools and innovative software solutions.
+- 👯 **Open to Collaboration:** Backend APIs, developer tools, open-source projects, and practical software solutions.
 
-## 🛠️ My Skills
+## 🛠️ Tech Stack
 
-### 🔡 Languages
+### 🔡 Programming Languages
 
 <p align="center"> 
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
@@ -74,7 +74,7 @@ I am a dedicated Computer Science student with a strong foundation in algorithms
   <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
-## 🏆 My Competitive Programming Profiles
+## 🏆 Competitive Programming
 
 <div align="center">
   <a href="https://codeforces.com/profile/mahmoud_abdellah14">
@@ -96,7 +96,7 @@ I am a dedicated Computer Science student with a strong foundation in algorithms
 
 <!-- Connect with mee   -->
 
-## 📫 Connect with me
+## 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:mahmoud.abdellah014@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -107,13 +107,16 @@ I am a dedicated Computer Science student with a strong foundation in algorithms
   <a href="https://x.com/Abo_3bdellah"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 </p>
 
-## 📊 GitHub & Coding Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mahmoud142&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide=stars" alt="Mahmoud's GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud142&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mahmoud142&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Mahmoud's Top Languages" />
 </p>
 
 <!-- Snake Animation -->
