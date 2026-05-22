@@ -1,21 +1,28 @@
 <!-- Name Section -->
 
+<!-- Name Section -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2370ED&center=true&vCenter=true&width=750&height=60&lines=Hello+there%2C+I'm+Mahmoud+Abdellah!+%F0%9F%91%8B" alt="Typing introduction for Mahmoud Abdellah" />
 </p>
 
-<!-- About me Section -->
+<!-- About Me Section -->
 
 ## 👤 About Me
 
-I am a Computer Science student focused on backend engineering, algorithms, and building reliable software solutions. I enjoy solving challenging problems, designing clean APIs, and turning ideas into practical applications.
+Backend-focused CS student who builds production-grade APIs and thrives on competitive programming.
 
-- 🌐 **Portfolio:** [mahmoudabdellah.tech](https://mahmoudabdellah.tech) - A showcase of my projects, experience, and technical work.
-- ⚡ **Competitive Programming:** Active on **Codeforces**, **LeetCode**, **AtCoder**, and **CodeChef**, where I sharpen my problem-solving skills.
-- 🚀 **Current Focus:** Building scalable backend services with **Node.js**, **NestJS**, databases, and modern software architecture.
-- 💡 **Interests:** Algorithms, backend development, distributed systems, clean code, and impactful software products.
-- 🎓 **Education:** Studying at the [Faculty of Computers & Informatics, Suez Canal University](http://suez.edu.eg/ar/).
-- 👯 **Open to Collaboration:** Backend APIs, developer tools, open-source projects, and practical software solutions.
+- 🌐 **Portfolio:** [mahmoudabdellah.tech](https://mahmoudabdellah.tech)
+- ⚡ **Competitive Programming:** Active on **Codeforces** · **LeetCode** · **AtCoder** · **CodeChef**
+- 🚀 **Building:** Scalable backend services with **Node.js**, **NestJS**, **Docker**, and cloud infrastructure
+- 🎓 **Education:** [Faculty of Computers & Informatics, Suez Canal University](http://suez.edu.eg/ar/)
+- 💼 **Open to:** Backend roles, API design, open-source collaboration
+
+## 💡 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -60,6 +67,7 @@ I am a Computer Science student focused on backend engineering, algorithms, and 
 
 <p align="center">
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
@@ -95,7 +103,7 @@ I am a Computer Science student focused on backend engineering, algorithms, and 
   </a>
 </div>
 
-<!-- Connect with mee   -->
+<!-- Connect With Me -->
 
 ## 📫 Connect With Me
 
@@ -116,3 +124,10 @@ I am a Computer Science student focused on backend engineering, algorithms, and 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud142&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <img src="https://github-stats-git-main-mahmoud-abdellahs-projects.vercel.app/api/top-langs/?username=Mahmoud142&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<!-- Footer -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2370ED&height=120&section=footer" />
