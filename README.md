@@ -1,7 +1,5 @@
 <!-- Name Section -->
 
-<!-- Name Section -->
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2370ED&center=true&vCenter=true&width=750&height=60&lines=Hello+there%2C+I'm+Mahmoud+Abdellah!+%F0%9F%91%8B" alt="Typing introduction for Mahmoud Abdellah" />
 </p>
@@ -10,19 +8,42 @@
 
 ## 👤 About Me
 
-Backend-focused CS student who builds production-grade APIs and thrives on competitive programming.
+> **Software Engineer** · **Competitive Programmer** · **CS Student**
+>
+> I build full-stack applications, design scalable APIs, and continuously sharpen my problem-solving through competitive programming. Passionate about clean code, great user experiences, and turning complex problems into elegant solutions.
 
-- 🌐 **Portfolio:** [mahmoudabdellah.tech](https://mahmoudabdellah.tech)
-- ⚡ **Competitive Programming:** Active on **Codeforces** · **LeetCode** · **AtCoder** · **CodeChef**
-- 🚀 **Building:** Scalable backend services with **Node.js**, **NestJS**, **Docker**, and cloud infrastructure
-- 🎓 **Education:** [Faculty of Computers & Informatics, Suez Canal University](http://suez.edu.eg/ar/)
-- 💼 **Open to:** Backend roles, API design, open-source collaboration
-
-## 💡 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
+<table>
+  <tr>
+    <td>🎓</td>
+    <td><strong>Studying</strong></td>
+    <td>CS @ <a href="http://suez.edu.eg/ar/">Faculty of Computers & Informatics, Suez Canal University</a></td>
+  </tr>
+  <tr>
+    <td>🚀</td>
+    <td><strong>Building</strong></td>
+    <td>Scalable full-stack applications & cloud-native services</td>
+  </tr>
+  <tr>
+    <td>🌱</td>
+    <td><strong>Learning</strong></td>
+    <td>System Design · Cloud Architecture · Software Engineering best practices</td>
+  </tr>
+  <tr>
+    <td>⚡</td>
+    <td><strong>Competing</strong></td>
+    <td>Active on <strong>Codeforces</strong> · <strong>LeetCode</strong> · <strong>AtCoder</strong> · <strong>CodeChef</strong></td>
+  </tr>
+  <tr>
+    <td>🌐</td>
+    <td><strong>Portfolio</strong></td>
+    <td><a href="https://mahmoudabdellah.tech"><strong>mahmoudabdellah.tech</strong></a></td>
+  </tr>
+  <tr>
+    <td>💼</td>
+    <td><strong>Open to</strong></td>
+    <td>Software engineering roles · Full-stack development · Open-source collaboration</td>
+  </tr>
+</table>
 
 ## 🛠️ Tech Stack
 
@@ -124,10 +145,13 @@ Backend-focused CS student who builds production-grade APIs and thrives on compe
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud142&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+
+## 💡 Dev Quote
+
 <p align="center">
-  <img src="https://github-stats-git-main-mahmoud-abdellahs-projects.vercel.app/api/top-langs/?username=Mahmoud142&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quoteColor=FFD700&authorColor=FFFFFF&backgroundColor=0d1117&symbolColor=2370ED" alt="Dev Quote" />
 </p>
 
 <!-- Footer -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2370ED&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2370ED,100:0d1117&height=120&section=footer" />
