@@ -49,7 +49,7 @@
 
 ### 🔡 Programming Languages
 
-<p align="center"> 
+<p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
@@ -59,15 +59,15 @@
 
 ### ⚙️ Backend Development
 
-<p align="center"> 
+<p align="center">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white">
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"> 
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
 </p>
 
 ### 🎨 Frontend & UI
 
-<p align="center"> 
+<p align="center">
   <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img alt="Redux" src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -110,15 +110,15 @@
   <a href="https://codeforces.com/profile/mahmoud_abdellah14">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  &emsp; 
+  &emsp;
   <a href="https://leetcode.com/u/Abo_abdellah14/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
-  &emsp; 
+  &emsp;
   <a href="https://atcoder.jp/users/Mahmoud_Abdellah">
     <img src="https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=AtCoder&logoColor=white" alt="AtCoder" />
   </a>
-  &emsp; 
+  &emsp;
   <a href="https://www.codechef.com/users/mahmoud14">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
   </a>
@@ -154,4 +154,4 @@
 
 <!-- Footer -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2370ED,100:0d1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2370ED,100:0d1117&height=120&section=footer" alt="Waving footer graphic" />
