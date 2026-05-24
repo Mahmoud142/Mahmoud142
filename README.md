@@ -16,7 +16,7 @@
   <tr>
     <td>🎓</td>
     <td><strong>Studying</strong></td>
-    <td>CS @ <a href="http://suez.edu.eg/ar/">Faculty of Computers & Informatics, Suez Canal University</a></td>
+    <td>CS @ <a href="http://suez.edu.eg/ar/" target="_blank" rel="noopener noreferrer">Faculty of Computers & Informatics, Suez Canal University</a></td>
   </tr>
   <tr>
     <td>🚀</td>
@@ -36,7 +36,7 @@
   <tr>
     <td>🌐</td>
     <td><strong>Portfolio</strong></td>
-    <td><a href="https://mahmoudabdellah.tech"><strong>mahmoudabdellah.tech</strong></a></td>
+    <td><a href="https://mahmoudabdellah.tech" target="_blank" rel="noopener noreferrer"><strong>mahmoudabdellah.tech</strong></a></td>
   </tr>
   <tr>
     <td>💼</td>
