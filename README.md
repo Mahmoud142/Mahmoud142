@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2370ED&center=true&vCenter=true&width=750&height=60&lines=Hello+there%2C+I'm+Mahmoud+Abdellah!+%F0%9F%91%8B" alt="Typing introduction for Mahmoud Abdellah" />
 </p>
 
-<!-- About Mee Section -->
+<!-- About Me Section -->
 
 ## 👤 About Me
 
